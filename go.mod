@@ -15,11 +15,10 @@ require (
 	github.com/pborman/uuid v1.2.1
 	github.com/pivotal-cf/brokerapi/v10 v10.0.0
 	github.com/pivotal-cf/redisutils v0.0.0-20230714164608-0c46711fcf34
-	github.com/st3v/glager v0.3.0
+	github.com/st3v/glager v0.4.0
 )
 
 require (
-	code.cloudfoundry.org/lager v2.0.0+incompatible // indirect
 	github.com/go-chi/chi/v5 v5.0.8 // indirect
 	github.com/go-logr/logr v1.2.4 // indirect
 	github.com/go-task/slim-sprig v0.0.0-20230315185526-52ccab3ef572 // indirect
